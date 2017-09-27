@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright 2017 Andrew Smith, CMPUT 301, University of Alberta.
+  ~ All Rights Reserved. This code can be used, modified, and distributed in
+  ~ accordance with the Code of Student Behaviour at University of Alberta.
+  ~ A copy of the license can be found in this project.
+  ~ Otherwise, contact atsmith@ualberta.ca
+  -->
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dp"
+    android:textSize="16sp" >
+</TextView>
