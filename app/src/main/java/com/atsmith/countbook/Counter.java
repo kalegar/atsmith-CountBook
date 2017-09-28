@@ -45,7 +45,7 @@ public class Counter {
         this.name = name;
         this.initalValue = initialValue;
         this.value = initialValue;
-        this.date = new Date(System.currentTimeMillis());
+        this.date = new Date();
         if (comment != null && comment.length() > 0) {
             this.comment = comment;
         } else {
@@ -71,6 +71,35 @@ public class Counter {
         }else{
             return comment;
         }
+    }
+
+    public void incValue(){
+        this.value++;
+        this.date = new Date();
+    }
+
+    public void decValue(){
+        if (this.value>0){
+            this.value--;
+            this.date = new Date();
+        }
+    }
+
+    public void resetValue(){
+        this.value = this.initalValue;
+        this.date = new Date();
+    }
+
+    public void setName(String name){
+        this.name = name;
+    }
+
+    public void setComment(String comment){
+        this.comment = comment;
+    }
+
+    public void setInitalValue(int initialValue){
+        this.initalValue = initialValue;
     }
 
     public Date getDate(){

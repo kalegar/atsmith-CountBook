@@ -3,129 +3,138 @@
 
     <item
         is-multidex="true"
-        jar="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_635b541f3dd9e4a8a7ce496123ca27f179a09bca/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/afs/ualberta.ca/home/a/t/atsmith/.android/build-cache/5f2aa5fd59600e4f63bba9e5500fdee7ce65760a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c3705c58a2ab9d0994bdded69a97030f207ef31/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/afs/ualberta.ca/home/a/t/atsmith/.android/build-cache/3ac88bc0a1c4208cc0b18599d8b047759d1a524e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_505157ece12f6f5a94a22aabf6a0452c0077230e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/afs/ualberta.ca/home/a/t/atsmith/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_10e7b37743948db84c58e848c026adc5637761ab/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/afs/ualberta.ca/home/a/t/atsmith/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_2ccaf474eb5c1b2b609e97d10dee6ca8f879301d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/afs/ualberta.ca/home/a/t/atsmith/.android/build-cache/e2d1a0e454fc9b2e930f4240fbe1d24e6b8b9ca3/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_78694e02a346f4c7b5ca2834709b593f433343b6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/afs/ualberta.ca/home/a/t/atsmith/.android/build-cache/5d8054fee0b7a0ff4b3bbdd5d15914d2862ac50c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc374eef05646542d66c33ef94881a70e989426c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/afs/ualberta.ca/home/a/t/atsmith/.android/build-cache/e977fa2c69018fc489a1691311f76e819cd78a67/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cf0b6af966b0aa04b46389c51ece05dc0ea06340/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/afs/ualberta.ca/home/a/t/atsmith/.android/build-cache/4599d24d784bcf44adebd5b569dc6ace7ab449c1/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_978a36c5559b33dbb72bf6e28de03c1cff1ee111/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="b10b470a977fb17cee3f8e8f854eb93ab65ade37">
-        <dex dex="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_03dec5b96b871d9d752dac3081f66fbd66ac2730/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/afs/ualberta.ca/home/a/t/atsmith/.android/build-cache/6898e67722e0cfd0d267db32dc67a93c8f3764bb/output/jars/classes.jar"
+        jar="C:\Users\Andrew\.android\build-cache\714c0c9508b83e1f4301f6b4af7324b08539ed0d\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c52fa383b65ec56f84a23c3f66ad214f76568d7/classes.dex" />
+        <dex dex="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b7582e0979618ad4a4364a15bdc5a4fb7048d69e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/afs/ualberta.ca/home/a/t/atsmith/.android/build-cache/a556effbf5e3359a42569849d5e47cce7fc470ce/output/jars/classes.jar"
+        jar="C:\Users\Andrew\.android\build-cache\c36972427f47a67da50b1db530d4e3ed2196a1bd\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d7053284b76065b18c152025c87a8b2d3a954c4/classes.dex" />
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5fd9fe2a9d6b1c7b874a8c878a5e7bb56b917b7e\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/afs/ualberta.ca/home/a/t/atsmith/.android/build-cache/981b16495eed6010dbf023dbef314b95cef3be4b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1145f7ec38a03a336a003c3320db86a00bf9e1d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/afs/ualberta.ca/home/a/t/atsmith/.android/build-cache/c3955cd83dcaf5966d642807a6f33136c55e444a/output/jars/classes.jar"
+        jar="C:\Users\Andrew\.android\build-cache\2b332e3b9375ff1bfbd7e3cc63f0b9cddb547186\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="/afs/ualberta.ca/home/a/t/atsmith/cmput301/assignment1/atsmith-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_62d81fc4ded965dfba560b253f3cf2bf4a00ca0a/classes.dex" />
+        <dex dex="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_86e778348a89f17819ce65cc80884b7c4194b0bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andrew\.android\build-cache\ba6184b307d5bfef12d1c358b706eebdda4f17b4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_117aea64f19c6232201c5e39122ecc06f4d85374\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="211dbd9e9f3600ea8e661c50162efeeaff6f2e5c">
+        <dex dex="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d1a8b922ead7fbce40293516e3e5ed1731e7ae7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andrew\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_a3cc5b5c059c38cbc1491a52e798f8fea79e7eee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andrew\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_78fe7491cdbf62e228d34c6e1a2e82724a856d6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_08e16556580bdb91420cbf9cc6017535d1750905\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andrew\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.2_80610bff8344fb2347051623d680554f96aecf77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andrew\.android\build-cache\00afa8957396747a76f473d1662421a6748f238c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_baed19580d7c129464583f8873b28d6edaf31862\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andrew\.android\build-cache\4978c6a4fd676d61d0bee1b0141900de40ee0872\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fce887b213ea23487128532a81f3a700e64423b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andrew\.android\build-cache\22f7bb15b77585de0a891f5b5f677b1b8e2ca484\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fce649d933fd009c2e653268682e8d083e3fd2c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andrew\.android\build-cache\71f3ce621635cacdfd51537406409ae6e45e0d66\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af3bb2d4328d2905545bd9751a2dc7c9be2ad361\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andrew\.android\build-cache\efc23c925b03ce7a3d1290b982db10ea798cb0bf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_22d53d8bc764e875c2e690c320eb5dea0e39b1a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Andrew\.android\build-cache\fb3667e16832013fc357f0dbcc3fd04b6335f4e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="F:\UAlberta\CMPUT301\Assignment1\atsmith-CountBook\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b8f00d51dc9f291570a8ba93fe658724d95e883\classes.dex" />
     </item>
 
 </items>
